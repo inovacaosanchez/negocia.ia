@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 928874,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1032933-9720238260003"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "PENHORA"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Media Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "05122025 - 160400"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "12122023"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "FORO REGIONAL III - JABAQUARA - SP"
+      }
+    ]
+  }
+]

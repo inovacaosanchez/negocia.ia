@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 699934,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1015140-2120148260405"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Baixa Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "23122024 - 152800"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "23072014"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE OSASCO - SP"
+      }
+    ]
+  }
+]

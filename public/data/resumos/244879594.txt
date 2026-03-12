@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 758188,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "Trata-se de uma Ação de Execução de Título Extrajudicial, processo número 1076147-78.2022.8.26.0002, movida em face de G. Camargo Multimarcas Eireli e Guilherme Camargo Lopes Mesquita.\n\nNa petição inicial, o exequente pleiteou a citação dos executados para pagamento do débito, o arresto de bens em caso de não localização , e a penhora de ativos financeiros via SISBAJUD , com reiteração automática (\"teimosinha\"), além de bloqueio de veículos via RENAJUD e consulta ao INFOJUD.\n\nO juízo deferiu a expedição de mandado de citação. As tentativas de citação por correio e por oficial de justiça restaram infrutíferas.\n\nO exequente, então, requereu a realização de pesquisas de endereço pelos sistemas conveniados , o que foi deferido. Após as pesquisas retornarem com endereços já diligenciados e novos , o exequente pediu o arresto online de ativos , bloqueio via SISBAJUD , consulta ao CCS-BACEN , bloqueio de veículos via RENAJUD , consulta ao INFOJUD e pesquisa no sistema SNIPER.\n\nO juiz deferiu o arresto de valores via SISBAJUD, com reiteração automática (\"teimosinha\"), e as pesquisas de bens via INFOJUD e RENAJUD , mas indeferiu os demais pedidos (CCS-Bacen, DOI, DITR e Sniper).\n\nA pesquisa RENAJUD localizou um veículo (R/PAES PN 01, ano 2021, placa DRW8J67) em nome da empresa executada , sem restrições existentes , e não encontrou veículos para o executado pessoa física. O bloqueio via SISBAJUD resultou na indisponibilidade de R$ 2.460,50 (R$ 75,01 + R$ 2.385,49) da executada G. Camargo Multimarcas Eireli, valor que foi transferido para uma conta judicial , sendo as tentativas para o coexecutado infrutíferas.\n\nApós novas tentativas de citação por carta nos endereços obtidos, que também foram negativas, o exequente pediu a citação por edital, o que foi deferido.\n\nForam expedidos os editais de citação e intimação para os executados , e após a sua publicação, o exequente requereu a realização de novas pesquisas de bens. Também iremos reiterar o levantamento do valor bloqueado anteriormente, bem como bloqueio total e penhora do automóvel localizado via Renajud. Empresa não está em funcionamento no endereço diligenciado pelo Oficial de Justiça (Rua Guarapiranga, 5807, SP/Capital)."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1076147-7820228260002"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ALTOS VALORES VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "PENHORA"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Media Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "20102025 - 000000"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "28102022"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "FORO REGIONAL II - SANTO AMARO - SP"
+      }
+    ]
+  }
+]

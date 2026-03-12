@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 210 20% 98%;
+    --foreground: 213 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 213 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 213 30% 15%;
+
+    --primary: 6 82% 33%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 210 15% 94%;
+    --secondary-foreground: 213 30% 20%;
+
+    --muted: 210 15% 92%;
+    --muted-foreground: 213 15% 45%;
+
+    --accent: 210 100% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 15% 88%;
+    --input: 210 15% 88%;
+    --ring: 6 82% 33%;
+
+    --radius: 0.75rem;
+
+    /* Custom tokens */
+    --gradient-card: linear-gradient(135deg, hsl(0 0% 100%) 0%, hsl(210 20% 98%) 100%);
+    --gradient-primary: linear-gradient(135deg, hsl(6 82% 33%) 0%, hsl(6 82% 45%) 100%);
+    --gradient-accent: linear-gradient(135deg, hsl(210 100% 45%) 0%, hsl(210 100% 35%) 100%);
+    
+    --shadow-card: 0 1px 3px 0 hsla(213, 30%, 15%, 0.06), 0 1px 2px -1px hsla(213, 30%, 15%, 0.06);
+    --shadow-glow: 0 4px 20px -4px hsl(6 82% 33% / 0.15);
+    
+    /* Metric colors */
+    --metric-blue: 210 100% 45%;
+    --metric-orange: 6 82% 33%;
+    --metric-navy: 213 80% 25%;
+    --metric-gold: 40 90% 45%;
+    
+    /* Chart colors */
+    --chart-1: 6 82% 33%;
+    --chart-2: 210 100% 45%;
+    --chart-3: 213 80% 25%;
+    --chart-4: 40 90% 45%;
+    --chart-5: 6 82% 50%;
+
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 213 30% 15%;
+    --sidebar-primary: 24 100% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 210 15% 94%;
+    --sidebar-accent-foreground: 213 30% 20%;
+    --sidebar-border: 210 15% 88%;
+    --sidebar-ring: 24 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card border border-border rounded-xl;
+    box-shadow: var(--shadow-card);
+  }
+  
+  .metric-card {
+    @apply glass-card p-6 transition-all duration-300 hover:scale-[1.02];
+  }
+  
+  .metric-card:hover {
+    box-shadow: var(--shadow-glow);
+  }
+  
+  .gradient-text {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-primary);
+  }
+  
+  .chat-bubble-operator {
+    @apply bg-primary/10 text-foreground rounded-2xl rounded-bl-sm px-4 py-3;
+  }
+  
+  .chat-bubble-client {
+    @apply bg-secondary text-foreground rounded-2xl rounded-br-sm px-4 py-3;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 0.5s ease-out forwards;
+  }
+  
+  .animate-slide-up {
+    animation: slideUp 0.5s ease-out forwards;
+  }
+  
+  .animate-count-up {
+    animation: countUp 1s ease-out forwards;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--secondary));
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--muted-foreground) / 0.5);
+}

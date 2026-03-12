@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 918822,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "16/05/2024: FASE ATUAL: Execução de Título Extrajudicial ajuizado em face da empresa e dos devedores solidários, sem tese diferenciada e pesquisa de bem imóvel negativa. Homologado acordo extrajudicial. Retomamos com pesquisa de bens e pedido de penhora das matrículas n. 20.918 e 20.917 – do 5º CRI SP. Localizamos uma filial: CNPJ 19.721.657/0002-57, incluiremos pedido de Sisbajud também para esse CNPJ + pedir penhora no rosto dos autos do Cumprimento de Sentença contra a Fazenda Pública (0006028-19.2023.8.26.0053), movido pela DSO Roselene Aguiar Santos. \n\nPRÓXIMOS PASSOS: Aguardar deferimento da pesquisa judicial, penhora no rosto dos autos, Sisbajud nas contas da filial e penhora dos imóveis, bem como penhora de faturamento, se necessário."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1007971-8620238260010"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "PENHORA"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Sem Precificacao"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "01012999 - 000000"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "01112023"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "FORO REGIONAL X - IPIRANGA - SP"
+      }
+    ]
+  }
+]

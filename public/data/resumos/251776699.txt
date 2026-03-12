@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 849499,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "22/05/2024: FASE ATUAL: Execução de Título Extrajudicial ajuizada em face da empresa e do devedor solidário, com pedido de arresto cautelar da matrícula n° 150.699. Decisão reconheceu a execução e indeferido o arresto cautelar, em seguida houve retorno positivo (total) dos ARs de citação. Pesquisa judicial realizada: Sisbajud positivo (R$ 47.151,09 e R$ 30,56) e Renajud positivo (REB KORG KR500 JS - 2021 - FIL6A15 - LIVRE DE ÔNUS / R REBOCAR C1 E1 - 2013 - FRL7310 - LIVRE DE ÔNUS / I AUDI Q3 2.0FSI AMB - 2013 - FPC1F17 - LIVRE DE ÔNUS / VW GOL 1.0 - 2008 - EAL8486 - VEICULO ROUBADO / HONDA CG 150 FAN ESI - 2010 - EHZ1062 - LIVRE DE ÔNUS). Executados apresentaram Exceção de pré-executividade e o Banco impugnou, contudo, antes de apreciada a exceção de pré-executividade, foi homologado acordo com garantia de imóvel (matrícula n°150.699 – 1º CRI Santo André). Acordo quebrado, promovemos a averbação da penhora na matrícula n° 150.699 e levantamos ao Banco os valores bloqueados, também requeremos o levantamento do valor de R$ 3.871,00 que depositado em juízo pelo executado. \n\nPRÓXIMOS PASSOS: Nomear perito para avaliação do imóvel e requerer pesquisa judicial com inclusão de restrição RENAJUD nos veículos localizados."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1008015-2520238260554"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "PENHORA"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Alta Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "31102025 - 100000"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "04042023"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE SANTO ANDRE - SP"
+      }
+    ]
+  }
+]

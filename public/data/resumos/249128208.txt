@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 1172745,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "22/08/2025 - Ajuizado Execução de Título Extrajudicial em face da empresa Gerson Fernandes Tozzi e devedcr solidario Gerson Fernandes Tozzi.\n\nRquerido penhora no rosto dos autos nº 0002682-19.2007.8.26.0248,.\n\n\nARISP:\nIMPENHORÁVEL\n\nVeiculos - IMPENHORÁVEL\n\nTESES: Não localizadas empresas aptas a grupo economico. \n\nDILIGENCIA: emrpesa não localizada."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1016875-6220258260451"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ALTOS VALORES VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Baixa Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "28102025 - 162200"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "22082025"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE PIRACICABA - SP"
+      }
+    ]
+  }
+]

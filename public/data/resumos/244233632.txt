@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 831490,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "0021222-0220258260114"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Baixa Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "01092025 - 000000"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE CAMPINAS - SP"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 839132,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "16/11/2023:Ação Monitória com citação negativa por carta no endereço contratual. Pedimos citação por mandado no mesmo endereço. Pedido deferido, mandado expedido e cumprido positivamente, restando a empresa devidamente citada. Após o decurso do prazo de pagamento, sobrevindo constituição do título executivo, iniciaremos o Cumprimento de Sentença com pesquisas judiciais via Sisbajud, Renajud e Infojud, bem como penhora de faturamento. Sem tese. Pesquisa de imóveis negativa no estado de São Paulo.\n\n23/01/2024: Ação Monitória com citação negativa por\ncarta no endereço contratual. Pedimos citação por mandado no mesmo endereço. Pedido\ndeferido, mandado expedido e cumprido positivamente, restando a empresa devidamente\ncitada. Após o decurso do prazo de pagamento, em 22/01/2024, o juiz deu sentença favorável ao Banco.\nIniciaremos o Cumprimento de Sentença com pesquisas judiciais via Sisbajud,\nRenajud e Infojud, bem como penhora de faturamento. Sem tese. Pesquisa de imóveis\nnegativa no estado de São Paulo.\n\nAqui destaco que tivemos sentença procedente dada ontem, ainda nem fomos intimados - só tomei ciência ao consultar o processo no TJSP.\nPortanto, as medidas de constrição estão bem próximas, o que poderá certamente impactar nosso devedor, em especial bloqueio de contas e penhora do faturamento."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "0019340-8120248260100"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Media Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "11092025 - 000000"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "26042024"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "FORO CENTRAL DA CAPITAL DE SAO PAULO - SP"
+      }
+    ]
+  }
+]

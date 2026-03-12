@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 859786,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "Execução com citação positiva, pendente o deferimento das pesquisas judiciais. ARISP indicou somente um imóvel com alienação fiduciária - Imóvel residencial, localizado na Rua 1, nº 33, doLoteamento Jardim do Sol, situado no Município de Itirapina/SP, com área total de160,00m². Matriculado sob o nº 70.409 do 2º CRI de Rio Claro/SP. Alienado Fiduciariamente em favor da Caixa Econômica Federal até o ano de 2038 Já requeremos a penhora dos direitos, pedido ainda não deferido."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "1010915-7220238260071"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "PENHORA"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Alta Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "08122025 - 173100"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "08052023"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE BAURU - SP"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 895388,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "0002604-8420248260068"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Media Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "30112025 - 010600"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": "09042024"
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "COMARCA DE BARUERI - SP"
+      }
+    ]
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "IDEspaider": 867110,
+    "Identificador": "CHATBOT_SES",
+    "ListaCampos": [
+      {
+        "Identificador": "RESUMO",
+        "Valor": "Trata-se de um Cumprimento de Sentença (Processo 0003788-25.2024.8.26.0020), referente à Ação Monitória (Processo 1008764-92.2023.8.26.0020), movido em face de E S FELIX GENIU'S CAR (NOME FANTASIA: GENIU'S CAR). Na ação principal, foi proferida sentença de procedência, constituindo de pleno direito o título executivo judicial, a qual transitou em julgado. Iniciada a fase de cumprimento de sentença, o exequente apresentou o cálculo atualizado do débito e requereu a intimação do executado para pagamento, bem como, subsidiariamente, a realização de pesquisas de bens por meio dos sistemas SISBAJUD, CCS/BACEN, RENAJUD, INFOJUD e SNIPER. O juízo determinou o recolhimento das custas processuais para a nova fase e para a intimação postal. Após a comprovação do pagamento pelo exequente , foi expedida carta de intimação para o executado , que retornou com resultado negativo pelo motivo \"Não existe o número\". O exequente foi intimado a se manifestar sobre o retorno negativo e peticionou requerendo a expedição de mandado de intimação a ser cumprido por oficial de justiça, juntando o comprovante de recolhimento das diligências. Atualmente, o processo aguarda a expedição do referido mandado."
+      },
+      {
+        "Identificador": "NUMERO_PROCESSO",
+        "Valor": "0003788-2520248260020"
+      },
+      {
+        "Identificador": "NUCLEO",
+        "Valor": "REC - ITAU PJ - ESTEIRA COMUM VAREJO"
+      },
+      {
+        "Identificador": "FASE",
+        "Valor": "CITACAO"
+      },
+      {
+        "Identificador": "EXPECTATIVA_RECUPERAR",
+        "Valor": "Media Probabilidade"
+      },
+      {
+        "Identificador": "DT_ULTIMO_ANDAMENTO",
+        "Valor": "06052025 - 113400"
+      },
+      {
+        "Identificador": "DATA_AJUIZAMENTO",
+        "Valor": ""
+      },
+      {
+        "Identificador": "COMARCA",
+        "Valor": "FORO REGIONAL XII - NOSSA SENHORA DO O - SP"
+      }
+    ]
+  }
+]
